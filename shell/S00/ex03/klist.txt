@@ -1,0 +1,5 @@
+Credentials cache: API:99B8C02F-FCFF-4760-B143-715326E980AB
+        Principal: jbrionne@42LYON.FR
+
+  Issued                Expires               Principal
+Oct  5 11:37:22 2020  Oct  5 14:37:15 2020  krbtgt/42LYON.FR@42LYON.FR
